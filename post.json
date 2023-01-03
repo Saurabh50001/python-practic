@@ -1,0 +1,26 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "this is a good boy. and its name is sumit and he is a good player.",
+        "body": "It fantastic for our college and the universiy"
+    },
+    {
+        "userId": 2,
+        "id": 2,
+        "title": "this is a good boy. and its name is Rinku and he is a good player.",
+        "body": "It fantastic for our college and the universiy"
+    },
+    {
+        "userId": 3,
+        "id": 3,
+        "title": "this is a good boy. and its name is Lalan and he is a good player.",
+        "body": "It fantastic for our college and the universiy"
+    },
+    {
+        "userId": 4,
+        "id": 4,
+        "title": "this is a good boy. and its name is Ram and he is a good player.",
+        "body": "It fantastic for our college and the universiy"
+    }
+]
